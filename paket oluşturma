@@ -44,8 +44,12 @@ git remote add origin https://github.com/Rapter1990/node.js-deneme-paketi.git
 
 git push -u origin master
 
+-- git projeyi update etme
+git .add
+git commit -m "first commit"
+git push -u origin master
 
 -- package npm yayınlama
 
-dfdsfsdfsdf
+
 
