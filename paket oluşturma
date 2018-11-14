@@ -32,3 +32,20 @@ PS F:\node.js baslangic kaynak\4-Paket Oluşturma> npm run adim
 
 
 -- git -> repository alanında
+
+PS F:\node.js baslangic kaynak\4-Paket Oluşturma> echo "# node.js-deneme-paketi" >> README.md
+PS F:\node.js baslangic kaynak\4-Paket Oluşturma> git init
+Initialized empty Git repository in F:/node.js baslangic kaynak/4-Paket Oluşturma/.git/
+PS F:\node.js baslangic kaynak\4-Paket Oluşturma> git add . (Tüm Dosyaları ekleme)
+
+git commit -m "first commit"
+
+git remote add origin https://github.com/Rapter1990/node.js-deneme-paketi.git
+
+git push -u origin master
+
+
+-- package npm yayınlama
+
+dfdsfsdfsdf
+
